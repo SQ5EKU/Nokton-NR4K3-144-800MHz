@@ -4,7 +4,8 @@
 ' zabezpieczeniem w przypadku uszkodzenia procesora (nie stoi nosna na przypadkowej czestotliwosci),
 ' antyzwiecha sprzetowa 5 sekudowa
 ' Vbat sygnalizuje spadek napiecia zasilania ponizej 11.0 V (aktualnie nie wykorzystany)
-'
+'http://sq5eku.blogspot.com
+
 $regfile = "89c2051.dat"
 $crystal = 12800000                                           ' zegar 12.8 MHz
 
